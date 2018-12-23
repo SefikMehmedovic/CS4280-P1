@@ -1,0 +1,20 @@
+Option 3: FSA table + driver (100 points)
+FSA Table is located in scanner.c
+Driver function is located in testScanner.h
+-----------------------------------------------------------------------------------------------
+
+Sefik Mehmedovic
+Project 1 
+CS4280 Compilers
+------------------------------------------------------------------------------------------------
+
+To compile project run 'make' and to remove all executables run 'make clean'
+
+To run project without any arguments and using keyboard input ./scanner 
+
+Reading from file ./scanner < filename or ./scanner filename
+
+-----------------------------------------------------------------------------------------------
+
+Does not print to file because it did not specify in the instructions. 
+
